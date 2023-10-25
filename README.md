@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TutkuMelek?tab=repositories](https://github.com/TutkuMelek?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react ,next ,tailwindcss ,**
 
 - 📫 How to reach me **tutkurnmlk@gmail.com**
 
